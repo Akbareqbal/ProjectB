@@ -8,6 +8,9 @@ public class DemoB {
 		
 		System.out.println("Day1");
 		System.out.println("Day2");
+
+		System.out.println("Team3");
+		System.out.println("QA");
 		
 	}
 
